@@ -29,7 +29,6 @@
         android:layout_height="198dp"
 
         android:backgroundTint="@android:color/transparent"
-        android:src="@drawable/student_1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.144"
